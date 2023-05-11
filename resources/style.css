@@ -88,9 +88,3 @@ footer {
     left: 0;
     right: 0;
 }
-
-li {
-    display: inline;
-    padding: 10px;
-    list-style-type: none;
-}
