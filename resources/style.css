@@ -21,6 +21,11 @@ a {
     width: auto;
     height: auto;
     margin: auto;
+    display: block;
+    width: 115px;
+    height: 25px;
+    margin: 0 auto;
+    text-align: center;
 }
 
 a:hover {
