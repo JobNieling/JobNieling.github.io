@@ -41,13 +41,13 @@ a:hover {
 }
 
 .navbar a {
+    float: left;
     font-size: 20px;
-    color: white;
+    color: green;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     font-family: 'Times New Roman', Times, serif;
-    display: inline-block;
 }
 
 .navbar a:hover {
