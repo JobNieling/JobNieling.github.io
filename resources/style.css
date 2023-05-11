@@ -42,8 +42,13 @@ a {
     text-align: center;
 }
 
+a li {
+    list-style-type: none;
+}
+
 a:hover {
     color: black;
+    background-color: aqua;
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
     border: 2px solid rgb(43, 20, 179);
