@@ -85,7 +85,7 @@ a:hover {
     padding: 5px;
     width: 115px;
     height: 25px;
-    margin: 0 auto;
+    margin: auto 0;
     text-align: center;
 }
 
