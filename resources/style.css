@@ -67,13 +67,14 @@ header {
 a {
     color: red;
     font-size: 20px;
+    text-align: center;
     font-family: 'Times New Roman', Times, serif;
     border: 2px solid black;
     padding: 5px;
     width: 115px;
     height: 25px;
     margin: 0 auto;
-    text-align: center;
+    display: block;
 }
 
 a:hover {
