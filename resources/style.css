@@ -50,6 +50,10 @@ a:hover {
     font-family: 'Times New Roman', Times, serif;
     padding: 5px;
     margin: 5px;
+    display: block;
+    width: 115px;
+    height: 25px;
+    text-align: center;
 }
 
 p {
