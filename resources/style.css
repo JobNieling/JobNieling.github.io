@@ -8,6 +8,8 @@ h1 {
     padding: 10px;
     width: auto;
     height: 75px;
+    display: block;
+    margin: 0 auto;
 }
 
 a {
